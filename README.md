@@ -1,6 +1,6 @@
 # 🍒 A Taste of the Cherry on Top
 
-## 🌱 A Gentle Introduction to Reinforcement Learning & Policy Gradient Methods
+## A Gentle Introduction to Reinforcement Learning & Policy Gradient Methods
 
 **Author:** Paolo Ginefra  
 **Student ID:** 10765882
